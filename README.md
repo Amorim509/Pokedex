@@ -1,4 +1,4 @@
-#Projeto Pokedex
+# Projeto Pokedex
 
 Este é um projeto acadêmico desenvolvido com o objetivo de aprender sobre a utilização de APIs para construir uma Pokedex simples. O projeto utiliza HTML, CSS e JavaScript para criar uma interface web interativa que consome uma API de informações sobre Pokémon.
 
